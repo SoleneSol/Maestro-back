@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository**
     ```sh
-    git clone https://github.com/malvina-dev/maestro-back.git
+    git clone https://github.com/solenesol/maestro-back.git
     cd maestro-back
     ```
 
@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     PG_URL=postgresql://<user>:<password>@<host>:<port>/<database>
     JWT_SECRET=your_jwt_secret_key
     REFRESH_SECRET=your_jwt_refresh_secret_key
-    CLIENT_URL=http://localhost:5173 
+    CLIENT_URL=your_client_url
     ```
 
 4.  **Set up the PostgreSQL database**
